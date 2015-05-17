@@ -1,7 +1,7 @@
 {
   "name": "theme-reel",
   "main": "./lib/theme-reel",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Quickly switch between syntax themes without configuration. Inspired by the excellent Themr.",
   "keywords": [
     "themes",
@@ -14,13 +14,15 @@
     "atom package"
   ],
   "activationCommands": {
-    "atom-workspace": ["theme-reel:next", "theme-reel:previous"]
+    "atom-workspace": [
+      "theme-reel:next",
+      "theme-reel:previous"
+    ]
   },
   "repository": "https://github.com/cgaudreau/theme-reel",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

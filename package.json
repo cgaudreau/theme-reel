@@ -24,5 +24,7 @@
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "readme": "# Theme Reel package\n\nAn Atom package that allows you to quickly switch between syntax themes. Inspired by the excellent Themr package for Sublime Text.\n\nPress `ctrl-shift-[` for the previous theme, and `ctrl-shift-]` for the next theme. The new theme name is briefly shown in the bottom left of the status bar.\n\n![Theme Reel](http://i.imgur.com/BGNUkle.gif)",
+  "readmeFilename": "README.md"
 }

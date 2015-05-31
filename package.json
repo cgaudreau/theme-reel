@@ -1,7 +1,7 @@
 {
   "name": "theme-reel",
   "main": "./lib/theme-reel",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quickly switch between syntax themes without configuration. Inspired by the excellent Themr.",
   "keywords": [
     "themes",

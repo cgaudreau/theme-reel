@@ -19,7 +19,7 @@
       "theme-reel:previous"
     ]
   },
-  "repository": "https://github.com/cgaudreau/theme-reel",
+  "repository": "https://github.com/clessg/theme-reel",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
